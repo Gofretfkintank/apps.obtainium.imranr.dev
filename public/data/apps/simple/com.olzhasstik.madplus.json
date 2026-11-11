@@ -1,0 +1,14 @@
+{
+    "config": {
+        "id": "com.olzhasstik.madplus",
+        "url": "https://github.com/Madplus-Telemetry/Madcar-Telemetry",
+        "author": "Madplus-Telemetry",
+        "name": "Mad+"
+    },
+    "categories": [
+        "tools"
+    ],
+    "description": {
+        "en": "Telemetry companion app for Madcar Racing: real-time HUD overlay, lap timing, driver ratings and race review."
+    }
+}
